@@ -1,0 +1,16 @@
+This is release notes made in Github.
+
+here's some asciidoc:
+
+[[X1]]
+Sub-section with Anchor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sub-section at level 2.
+
+Chapter Sub-section
+^^^^^^^^^^^^^^^^^^^
+Sub-section at level 3.
+
+Chapter Sub-section
++++++++++++++++++++
+Sub-section at level 4.
